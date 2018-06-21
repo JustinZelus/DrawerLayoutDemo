@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+     <!-- Target 20 and below. Use Holo.Light theme -->
+    <style name="MyTheme" parent="android:Theme.Holo.Light">
+    </style>
+</resources>
